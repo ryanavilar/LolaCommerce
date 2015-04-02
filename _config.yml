@@ -1,0 +1,17 @@
+# Site Settings
+title: Lola Collective
+email: Lola@gmail.com
+facebook: facebook
+twitter: twitter
+instagram: instagram
+spotify: spotify
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
