@@ -6,7 +6,7 @@ twitter: twitter
 instagram: instagram
 spotify: spotify
 
-baseurl: /LolaCommerce
+baseurl: "/LolaCommerce"
 
 # Build settings
 markdown: kramdown
