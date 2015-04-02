@@ -6,6 +6,8 @@ twitter: twitter
 instagram: instagram
 spotify: spotify
 
+baseurl: /LolaCommerce
+
 # Build settings
 markdown: kramdown
 permalink: pretty
